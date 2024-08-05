@@ -23,6 +23,8 @@ mobile phone
 * The system should work in the temperature range of 0 degrees centigrade to 60 degrees 
 centigrade.
 
+**SCHEMATIC DIAGRAM**
+
 ![image](https://github.com/user-attachments/assets/61533e53-7c25-4adf-bbcd-ac1b824f22ed)
 
 **LIST OF COMPONENTS**
