@@ -38,6 +38,8 @@ centigrade.
 7. DHT11 - Temperature/Humidity Sensor
 8. BC-547 NPN Transistor
 
+**IMPLEMENTATION**
+![image](https://github.com/user-attachments/assets/c71bae98-c9fd-43a4-b9ef-c3d4f6813992)
 
-
+![image](https://github.com/user-attachments/assets/0fdc1e15-f792-4402-a15d-bc02f711eb08)
 
